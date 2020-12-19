@@ -21,6 +21,9 @@ This will create a repo folder in your local computer.
 
 Then paste the file you want to add to the github in the repo folder in your local computer.
 
+The file location you pasted on your local repo must match the location on Git Bash in which you will write 'git add' command! 
+Else don't forget to define the location with cd again on Git Bash!
+
 Then go to Git Bash and write the following command.
 
 Step 2: git add 'file.type'
@@ -30,3 +33,15 @@ Step 3: git commit -m 'added file type or write a comment'
 Step 4: git push origin master
 
 Then check your GitHub.
+
+You can remove by using the following command!
+
+Step 5: git rm filename
+
+Step 6: git commit -m 'removed the file'
+
+Step 7: git push origin master
+
+However, I prefer using GitHub's web interface!!!
+
+
