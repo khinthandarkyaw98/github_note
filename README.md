@@ -9,6 +9,9 @@ https://articles.assembla.com/en/articles/1136998-how-to-add-a-new-remote-to-you
 Create a folder in your local computer. 
 Open Git Bash.
 Enter the location of the created folder using cd command on Git Bash.
+
+cd 'location'
+
 Then copy the link of the repo on GitHUB.
 Come back to Git Bash and write the following command.
 
