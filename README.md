@@ -97,5 +97,6 @@ Then svae it.
 > Add commit
 ```git commit -m "message"```
 
-> Go to main branch
+> Go to main branch to merge the files 
 ```git checkout main```
+
