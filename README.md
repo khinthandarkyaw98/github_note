@@ -142,3 +142,11 @@ Then svae it.
 ```:q``` or ```clrt+z``` can be used to tackle 'END' display.
 
 ```:wq``` is used when ```:q``` cannot be used. 
+
+---
+### REMOVE
+
+```touch .gitignore``` created a file named '.gitignore' in the local repo
+
+> open the file in the local repo and write the file name desired to be ignored
+> if there are multiple files to be neglected,e.g 'a.exe', 'b.exe', then write ```*.exe``` in the '.gitignore' file.
