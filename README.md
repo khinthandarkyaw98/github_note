@@ -20,7 +20,7 @@ cd location ( if there is no whitespace in the name of the folder)
 Then copy the link of the repo on GitHUB.
 Come back to Git Bash and write the following command.
 
-Step 1 : git clone Repo_LINK
+Step 1 :  ```git clone Repo_LINK```
 
 This will create a repo folder in your local computer.
 
@@ -39,23 +39,21 @@ Else don't forget to define the location with cd again on Git Bash!
 
 Then go to Git Bash and write the following command.
 
-Step 2: git add 'file.type'
+Step 2: ```git add 'file.type'```
 
-Step 3: git commit -m 'added file type or write a comment'
+Step 3: ```git commit -m 'added file type or write a comment'```
 
-Step 4: git push origin master
+Step 4: ```git push```
 
 Then check your GitHub.
 
 You can remove by using the following command!
 
-Step 5: git rm filename
+Step 5: ```git rm filename```
 
-Step 6: git commit -m 'removed the file'
+Step 6: ```git commit -m 'removed the file'```
 
-Step 7: git push origin master
-
-However, I prefer using GitHub's web interface!!!
+Step 7: ```git push``` 
 
 ---
 
