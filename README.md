@@ -26,9 +26,9 @@ Then paste the file you want to add to the github in the repo folder in your loc
 The file location you pasted on your local repo must match the location on Git Bash in which you will write 'git add' command! 
 Else don't forget to define the location with cd again on Git Bash!
 
-'''git log''' can be used to show the previous commit messages. 
+```git log``` can be used to show the previous commit messages. 
 
-'''q''' or '''clrt+z''' can be used to tackle 'END' display.
+```q``` or ```clrt+z``` can be used to tackle 'END' display.
 
 Then go to Git Bash and write the following command.
 
