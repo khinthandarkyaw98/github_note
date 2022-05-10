@@ -32,6 +32,8 @@ Else don't forget to define the location with cd again on Git Bash!
 
 ```git difftool HEAD``` is used to see the changes made.
 
+```:wq``` is used when ```q``` cannot be used. 
+
 Then go to Git Bash and write the following command.
 
 Step 2: git add 'file.type'
@@ -74,6 +76,29 @@ However, I prefer using GitHub's web interface!!!
 ```git reset --hard committed_id``` is used to restore back to where it was.
 
 ---
+
+##### Branch
+
+> Check the branches 
+```git branch``` 
+
+> Create the branch
+```git brannch branch_name```
+
+>Go the branch
+```git checkout branch_name```
+
+Make changes in the file.
+Then svae it.
+
+> Go staging space
+```git add file_name```
+
+> Add commit
+```git commit -m "message"```
+
+> Go to main branch to merge the files 
+```git checkout main```
 
 > Merge the brach to the base branch(main)
 ```git merge branch_name``` branch_name will be merged to the main
