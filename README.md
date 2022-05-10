@@ -74,4 +74,6 @@ However, I prefer using GitHub's web interface!!!
 ```git reset --hard committed_id``` is used to restore back to where it was.
 
 ---
-This is main branch. 
+
+> Merge the brach to the base branch(main)
+```git merge branch_name``` branch_name will be merged to the main
