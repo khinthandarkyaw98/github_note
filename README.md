@@ -1,5 +1,8 @@
 # github_note
 about_github
+
+https://www.youtube.com/playlist?list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW
+
 https://www.jcchouinard.com/get-started-with-github/
 
 https://www.jcchouinard.com/add-a-file-to-github-with-git-bash/
