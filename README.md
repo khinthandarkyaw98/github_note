@@ -88,6 +88,11 @@ However, I prefer using GitHub's web interface!!!
 >Go the branch
 ```git checkout branch_name```
 
+You can write the above two closest code lines into one line.
+
+>This will create the branch and checkout it at the same time.
+```git checkout -b branch_name```
+
 Make changes in the file.
 Then svae it.
 
