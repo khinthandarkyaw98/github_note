@@ -32,6 +32,8 @@ Else don't forget to define the location with cd again on Git Bash!
 
 ```git difftool HEAD``` is used to see the changes made.
 
+```git checkout -- filename```can be used to undo the lines in the file.
+
 Then go to Git Bash and write the following command.
 
 Step 2: git add 'file.type'
