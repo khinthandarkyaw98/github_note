@@ -29,14 +29,6 @@ Then paste the file you want to add to the github in the repo folder in your loc
 The file location you pasted on your local repo must match the location on Git Bash in which you will write 'git add' command! 
 Else don't forget to define the location with cd again on Git Bash!
 
-```git log``` can be used to show the previous commit messages. 
-
-```q``` or ```clrt+z``` can be used to tackle 'END' display.
-
-```git difftool HEAD``` is used to see the changes made.
-
-```:wq``` is used when ```q``` cannot be used. 
-
 Then go to Git Bash and write the following command.
 
 Step 2: ```git add 'file.type'```
@@ -131,3 +123,25 @@ Then svae it.
 
 ---
 
+#### difftool
+
+```git log``` can be used to show the previous commit messages. 
+> show the difference between previous commit and new commit
+```git difftool old_commit_id new_commit_id```
+
+> HEAD is the recent commit_id. 
+
+> HEAD~1 is the commit_id before the recent one.
+
+> HEAD~2 is the the second commit_id before the recent one.
+
+```git difftool HEAD HEAD~1``` show the difference between the recent one and the other before it.
+
+```git difftool HEAD``` is used to see the changes made
+
+---
+### QUIT/ END
+
+```:q``` or ```clrt+z``` can be used to tackle 'END' display.
+
+```:wq``` is used when ```:q``` cannot be used. 
