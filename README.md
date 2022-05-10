@@ -77,7 +77,7 @@ However, I prefer using GitHub's web interface!!!
 
 ---
 
-##### Branch
+##### Add Branch
 
 > Check the branches 
 ```git branch``` 
@@ -113,3 +113,11 @@ Then svae it.
 
 > Then Push the branch from the branch_name to the Github
 ```git push --set-upstream origin branch_name``` git will push the branch the upstream which is Github
+
+##### Delete Branch
+
+> Please checkout to the main first before deleting the branch
+```git checkout main```
+
+>When you are in the main or master branch, then you can the delete the branch you wish to.
+```git branch -d branch_name```
