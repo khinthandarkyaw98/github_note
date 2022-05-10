@@ -124,3 +124,8 @@ Then svae it.
 
 >When you are in the main or master branch, then you can the delete the branch you wish to.
 ```git branch -d branch_name```
+
+---
+
+> Show the recent commit
+```git show HEAD``` 
