@@ -103,5 +103,8 @@ Then svae it.
 > Merge the brach to the base branch(main)
 ```git merge branch_name``` branch_name will be merged to the main
 
-> Push the branch to the Github
+> Go checkout to the branch(copy) to push the branch
+```git checkout branch_name```
+
+> Then Push the branch from the branch_name to the Github
 ```git push --set-upstream origin branch_name``` git will push the branch the upstream which is Github
