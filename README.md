@@ -34,6 +34,8 @@ Else don't forget to define the location with cd again on Git Bash!
 
 ```git checkout -- filename```can be used to undo the lines in the file.
 
+```git checkout -- .``` can be used to undo all the changes in all files.
+
 Then go to Git Bash and write the following command.
 
 Step 2: git add 'file.type'
