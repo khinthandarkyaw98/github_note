@@ -144,7 +144,7 @@ Then svae it.
 ```:wq``` is used when ```:q``` cannot be used. 
 
 ---
-### REMOVE
+### IQNORE
 
 ```touch .gitignore``` created a file named '.gitignore' in the local repo
 
