@@ -32,9 +32,7 @@ Else don't forget to define the location with cd again on Git Bash!
 
 ```git difftool HEAD``` is used to see the changes made.
 
-```
-- uncommited changes
-```
+<p style = 'color: red'>Undo for uncommited changes</p>
 
 ```git checkout -- filename```can be used to undo the lines in the file.
 
