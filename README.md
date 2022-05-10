@@ -66,6 +66,12 @@ However, I prefer using GitHub's web interface!!!
 ```git checkout -- .``` can be used to undo all the changes in all files.
 
 ---
+
+## Commit
+
+> Show the recent commit
+```git show HEAD``` 
+----
 >Undo for committed changes
 
 ```git log``` is used to retrieve committed_id
@@ -127,5 +133,3 @@ Then svae it.
 
 ---
 
-> Show the recent commit
-```git show HEAD``` 
