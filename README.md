@@ -10,7 +10,9 @@ Create a folder in your local computer.
 Open Git Bash.
 Enter the location of the created folder using cd command on Git Bash.
 
-cd 'location'
+cd 'location' (if the folder's name includes whitespaces)
+or 
+cd location ( if there is no whitespace in the name of the folder)
 
 Then copy the link of the repo on GitHUB.
 Come back to Git Bash and write the following command.
@@ -23,6 +25,10 @@ Then paste the file you want to add to the github in the repo folder in your loc
 
 The file location you pasted on your local repo must match the location on Git Bash in which you will write 'git add' command! 
 Else don't forget to define the location with cd again on Git Bash!
+
+'''git log''' can be used to show the previous commit messages. 
+
+'''q''' or '''clrt+z''' can be used to tackle 'END' display.
 
 Then go to Git Bash and write the following command.
 
