@@ -150,3 +150,13 @@ Then svae it.
 
 > open the file in the local repo and write the file name desired to be ignored
 > if there are multiple files to be neglected,e.g 'a.exe', 'b.exe', then write ```*.exe``` in the '.gitignore' file.
+
+### Wrong Language
+#### .gitattributes
+
+> If the Github describes the wrong language in the languages bar, create ```.gitattributes```
+ in the local repo by using 
+ ```touch .gitattributes``` . If it is desired to discard the python language,
+ then simply use the following command.
+ 
+ ```*.py linguist-detectable=true```
