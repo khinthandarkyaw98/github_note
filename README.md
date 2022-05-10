@@ -30,6 +30,8 @@ Else don't forget to define the location with cd again on Git Bash!
 
 ```q``` or ```clrt+z``` can be used to tackle 'END' display.
 
+```git difftool HEAD``` is used to see the changes made.
+
 Then go to Git Bash and write the following command.
 
 Step 2: git add 'file.type'
