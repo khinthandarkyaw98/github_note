@@ -32,15 +32,6 @@ Else don't forget to define the location with cd again on Git Bash!
 
 ```git difftool HEAD``` is used to see the changes made.
 
----
-
->Undo for uncommited changes
-
-```git checkout -- filename```can be used to undo the lines in the file.
-
-```git checkout -- .``` can be used to undo all the changes in all files.
-
----
 Then go to Git Bash and write the following command.
 
 Step 2: git add 'file.type'
@@ -61,4 +52,25 @@ Step 7: git push origin master
 
 However, I prefer using GitHub's web interface!!!
 
+---
 
+>Undo for uncommitted changes
+
+```git checkout -- filename```can be used to undo the lines in the file.
+
+```git checkout -- .``` can be used to undo all the changes in all files.
+
+---
+>Undo for committed changes
+
+```git log``` is used to retrieve committed_id
+
+```git revert committed_id ``` can be used to undo commited changes
+
+---
+
+> Try to avoid the following code as much as possilbe unless necessary.
+
+```git reset --hard committed_id``` is used to restore back to where it was.
+
+---
