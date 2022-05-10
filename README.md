@@ -97,3 +97,5 @@ Then svae it.
 > Add commit
 ```git commit -m "message"```
 
+> Go to main branch
+```git checkout main```
