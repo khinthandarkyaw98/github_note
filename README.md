@@ -122,6 +122,12 @@ Then svae it.
 > Make sure the location in the folder where the file to be deleted is.
 ```git rm filename```
 
+### Create folder
+```mkdir folder```
+
+### Create file
+```touch filename```
+
 ---
 
 #### difftool
