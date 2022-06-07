@@ -118,6 +118,10 @@ Then svae it.
 >When you are in the main or master branch, then you can the delete the branch you wish to.
 ```git branch -d branch_name```
 
+### Delete file
+> Make sure the location in the folder where the file to be deleted is.
+```git rm filename```
+
 ---
 
 #### difftool
