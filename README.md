@@ -128,8 +128,7 @@ Then svae it.
 ### Create file
 ```touch filename```
 
-### To solve detached ##HEAD
-[Click HERE](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/git-push-new-branch-remote-github-gitlab-upstream-example)
+### To solve detached ##HEAD [Click HERE](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/git-push-new-branch-remote-github-gitlab-upstream-example)
 ---
 
 #### difftool
