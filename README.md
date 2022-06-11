@@ -135,6 +135,8 @@ Then svae it.
 If you made chages in remote(github), go to the location of this file in git bash with cd command and write ```git fetch origin main``` and
 ```git merge origin/main```
 
+or ```git init``, ```git pull```, and ```git fetch```.
+
 ---
 
 #### difftool
