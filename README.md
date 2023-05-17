@@ -1,6 +1,8 @@
 # github_note
 about_github
 
+If you cannot push to repo from terminal (passward access is denied), use token. Refer to this [blog-post](https://ginnyfahs.medium.com/github-error-authentication-failed-from-command-line-3a545bfd0ca8).
+
 https://www.youtube.com/playlist?list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW
 
 https://www.jcchouinard.com/get-started-with-github/
