@@ -12,7 +12,9 @@ https://www.jcchouinard.com/add-a-file-to-github-with-git-bash/
 https://articles.assembla.com/en/articles/1136998-how-to-add-a-new-remote-to-your-git-repo
 
 #############################################
-…or create a new repository on the command line
+
+
+create a new repository on the command line
 
 ```echo "# text_description" >> README.md```
 
