@@ -11,6 +11,29 @@ https://www.jcchouinard.com/add-a-file-to-github-with-git-bash/
 
 https://articles.assembla.com/en/articles/1136998-how-to-add-a-new-remote-to-your-git-repo
 
+#############################################
+…or create a new repository on the command line
+```echo "# text_description" >> README.md```
+```git init```
+```git add README.md```
+```git commit -m "first commit"```
+```git branch -M main```
+```git remote add origin xxxxxx.git```
+```git push -u origin main```
+
+
+…or push an existing repository from the command line
+```git remote add origin xxxxxx.git```
+```git branch -M main```
+```git push -u origin main```
+
+
+
+
+
+
+#############################################
+
 If you have already created the repo in your github, you can ocate the folder which has the similar name as that of your repo via terminal, follow these steps. 
 
    echo "# Neural_Networks" >> README.md
